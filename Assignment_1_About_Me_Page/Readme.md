@@ -13,26 +13,23 @@ The following **required** features are completed:
 - [x] Includes at least 3 paragraphs. (3pts)
 - [x] Includes at least one image. (2pts)
 - [x] Includes a .css file to style with at least 4 ways to format the elements in the html. (3pts)
-- [ ] Includes a link that directs to your Github account (can be main account or specifically to your Platform_Computing Repo). (3pts)
+- [x] Includes a link that directs to your Github account (can be main account or specifically to your Platform_Computing Repo). (3pts)
 
 The following **bonus** features are implemented:
 
-- [ ] Applies different font(s). (0.5 pt)
-- [ ] Applies border and margins. (0.5 pt)
-- [ ] DESCRIBE ANY OTHER FEATURES HERE.
+- [x] Applies different font(s). (0.5 pt)
+- [x] Applies border and margins. (0.5 pt)
+- [x] Adds a Video Element.
 
 ## Screenshot and/or Video Walkthrough
 
 <img src="https://i.imgur.com/4DbaSuW.png" title='Unique Title' alt='Changes Title' />
 <img src="https://i.imgur.com/ZaFOJF1.png" title='Uses a mix of headers, paragraphs, and divs' alt='h, p, div + 3 paragraphs'/>
 <img src="https://i.imgur.com/Y5G9wKh.png" title='One Image' alt='One Image'/>
-<img src="https://i.imgur.com/I4pwrfR.png" title='Included .CSS, Different Font, Adds Video' alt='.CSS, Different Font, Adds Video'/>
+<img src="https://i.imgur.com/Ai7VLl3.png" title='Included .CSS, Different Font, Adds Video' alt='.CSS, Different Font, Adds Video'/>
+<img src="https://i.imgur.com/eCwY8ZP.png" title='Link to Github' alt='Link to Github'/>
 
 
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
-<ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
-</ul>
