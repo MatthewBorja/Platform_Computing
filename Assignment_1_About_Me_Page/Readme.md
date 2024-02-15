@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://www.applepestcontrol.com/wp-content/uploads/2021/07/159062811_s-799x480.jpg" title='Example Video Walkthrough' alt='Example Video Walkthrough' />
+<img src="https://i.imgur.com/VnWnKMs.jpeg" title='Example Video Walkthrough' alt='Example Video Walkthrough' />
 
 
 ## Notes:
