@@ -23,8 +23,11 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://i.imgur.com/4DbaSuW.png" title='Example Video Walkthrough' alt='Example Video Walkthrough' />
-<img src="https://i.imgur.com/ZaFOJF1.png" title='Uses a mix of headers, paragraphs, and divs' alt='h, p, div'/>
+<img src="https://i.imgur.com/4DbaSuW.png" title='Unique Title' alt='Changes Title' />
+<img src="https://i.imgur.com/ZaFOJF1.png" title='Uses a mix of headers, paragraphs, and divs' alt='h, p, div + 3 paragraphs'/>
+<img src="https://i.imgur.com/Y5G9wKh.png" title='One Image' alt='One Image'/>
+<img src="https://i.imgur.com/I4pwrfR.png" title='Included .CSS, Different Font, Adds Video' alt='.CSS, Different Font, Adds Video'/>
+
 
 
 ## Notes:
