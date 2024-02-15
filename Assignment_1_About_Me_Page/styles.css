@@ -1,0 +1,45 @@
+/* Tags = selector uses tag */
+body{
+    background-color:rgb(44, 42, 47);
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+p{
+    font-size: medium;
+}
+
+video{
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+/* Class = Selector uses . */
+.MainBody{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.flex-container{
+    display: flex;
+}
+
+/* ID = selector uses # */
+#title{
+    font-size: 50px;
+    text-align: center;
+}
+
+#inline-img{
+    width: 400px;
+    height: 150px;
+    padding-right: 25px;
+}
+
+#myGitHub{
+    padding-top: 25px;
+    padding-left: 25px;
+    width: 30px;
+    height: 30px;
+}
