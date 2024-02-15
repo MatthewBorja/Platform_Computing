@@ -28,6 +28,7 @@ The following **bonus** features are implemented:
 <img src="https://i.imgur.com/Y5G9wKh.png" title='One Image' alt='One Image'/>
 <img src="https://i.imgur.com/Ai7VLl3.png" title='Included .CSS, Different Font, Adds Video' alt='.CSS, Different Font, Adds Video'/>
 <img src="https://i.imgur.com/eCwY8ZP.png" title='Link to Github' alt='Link to Github'/>
+<img src="https://i.imgur.com/TyngbtQ.png" title='Video Element' alt='Video Element'/>
 
 
 
