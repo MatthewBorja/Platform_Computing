@@ -24,6 +24,7 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 <img src="https://i.imgur.com/4DbaSuW.png" title='Example Video Walkthrough' alt='Example Video Walkthrough' />
+<img src="https://i.imgur.com/ZaFOJF1.png"/>
 
 
 ## Notes:
