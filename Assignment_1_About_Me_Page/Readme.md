@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="blob:https://mega.nz/9b26a500-bd91-48fd-a057-3b18a6bd3dc5" title='Example Video Walkthrough' width='5' alt='Example Video Walkthrough' />
+<img src="blob:https://csusanbernardino-my.sharepoint.com/4d63e8eb-3943-4114-a3e5-6d7550e4c9dc" title='Example Video Walkthrough' width='5' alt='Example Video Walkthrough' />
 
 
 ## Notes:
