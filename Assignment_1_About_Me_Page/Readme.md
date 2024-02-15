@@ -2,17 +2,17 @@
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+Time spent: **4** hours spent in total.
 
 ## Features
 
 The following **required** features are completed:
 
 - [x] Modifies title in head so that the tab has a unique name, (e.g. About Me). (1pts)
-- [ ] Uses a mix of headers, paragraphs, and div's. (3pts)
-- [ ] Includes at least 3 paragraphs. (3pts)
-- [ ] Includes at least one image. (2pts)
-- [ ] Includes a .css file to style with at least 4 ways to format the elements in the html. (3pts)
+- [x] Uses a mix of headers, paragraphs, and div's. (3pts)
+- [x] Includes at least 3 paragraphs. (3pts)
+- [x] Includes at least one image. (2pts)
+- [x] Includes a .css file to style with at least 4 ways to format the elements in the html. (3pts)
 - [ ] Includes a link that directs to your Github account (can be main account or specifically to your Platform_Computing Repo). (3pts)
 
 The following **bonus** features are implemented:
@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="blob:https://mega.nz/9b26a500-bd91-48fd-a057-3b18a6bd3dc5" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 
 ## Notes:
