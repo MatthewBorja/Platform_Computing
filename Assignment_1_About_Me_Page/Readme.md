@@ -8,7 +8,7 @@ Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
 The following **required** features are completed:
 
-- [ ] Modifies title in head so that the tab has a unique name, (e.g. About Me). (1pts)
+- [x] Modifies title in head so that the tab has a unique name, (e.g. About Me). (1pts)
 - [ ] Uses a mix of headers, paragraphs, and div's. (3pts)
 - [ ] Includes at least 3 paragraphs. (3pts)
 - [ ] Includes at least one image. (2pts)
