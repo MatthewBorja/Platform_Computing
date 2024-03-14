@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<!--<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />-->
+<img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_2_User_Interactions/Images/AboutMe.PNG?raw=true" title='AboutMePage' width='' alt='AboutMePage' />
 
 
 ## Notes:
