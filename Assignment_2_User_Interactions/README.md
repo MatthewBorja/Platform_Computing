@@ -24,6 +24,7 @@ The following **bonus** features are implemented:
 
 <img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_2_User_Interactions/Images/AboutMe.PNG?raw=true" title='AboutMePage' width='' alt='AboutMePage' />
 <img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_2_User_Interactions/Images/Metric_Tracker.PNG?raw=true" title='Selenium Test' alt='Selenium Test' />
+<img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_2_User_Interactions/Images/AboutMeMetricTracker.PNG?raw=true" title='Metric Tracker' alt='Metric Tracker' />
 
 
 ## Notes:
