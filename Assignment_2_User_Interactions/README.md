@@ -2,7 +2,7 @@
 
 Monitor the user interactions (e.g. scrolling, time on site, click rate, etc) and record them as metrics.
 
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Features
 
