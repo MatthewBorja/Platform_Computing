@@ -12,7 +12,7 @@ The following **required** features are completed:
 - [x] Transfer your About Me Page into a React App with screenshot of output in the Images folder(3 pt)
 - [x] Set up Selenium (2 pt)
 - [x] Write your first Selenium script with screenshot of output in the Images folder (4 pt)
-- [ ] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)
+- [x] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)
 
 The following **bonus** features are implemented:
 
