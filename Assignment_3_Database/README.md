@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='MongoDB Sample Data' />
+<img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_3_Database/Images/mongodb_sample.PNG?raw=true" title='MongoDB Sample Data' width='' alt='MongoDB Sample Data' />
 
 
 ## Notes:
