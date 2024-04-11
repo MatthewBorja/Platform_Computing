@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 <img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_4_Generate_Users/Images/keyword.PNG?raw=true" title='Keyword User' width='' alt='Keyword User' />
-<img src="" title='Image User' width='' alt='Image User' />
+<img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_4_Generate_Users/Images/image.PNG?raw=true" title='Image User' width='' alt='Image User' />
 
 
 ## Notes:
