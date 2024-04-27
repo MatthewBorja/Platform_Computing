@@ -54,13 +54,14 @@ async function userAction(action, driver, reward_time, req_list){
     try {
         let total_reward_time = 0;
         if (action.toUpperCase() == 'KEYWORD'){
+            console.log(req_list);
             for (let i = 0; i < req_list.length; i++){
                 if (await findKeyword(driver, req_list[i])){
                     console.log("Found", req_list[i]);
                     wait(reward_time);
                     total_reward_time += reward_time;
                 } else {
-                    console.log("Not found!");
+                    console.log(req_list[i], "not found!");
                 }
             }
         } else if (action.toUpperCase() == 'IMAGE'){
@@ -78,16 +79,17 @@ async function userAction(action, driver, reward_time, req_list){
     }
 };
 
-(async function linkUser(){
+(async function uniqueUser(){
     let driver;
     let reward_time = 10000;
     let total_reward_time = 0;
     let url = 'http://localhost:3000';
-    let keyword = ['Student', 'California'];
+    let keyword = ['Student', 'CSUSB', 'San Bernardino', 'Yote', 'Blue', 'Computer Science',
+                    'Software', 'Platform Computing', 'JavaScript', 'React', 'HTML', 'CSS'];
     let tag = 'img';
     let atag = 'a';
     console.log("Website: ", url);
-    //console.log("Keyword:", keyword);
+    console.log("Keyword:", keyword);
     //console.log("Tag:", tag);
     console.log("Tag:", atag);
     try {
@@ -103,9 +105,9 @@ async function userAction(action, driver, reward_time, req_list){
         await driver.manage().setTimeouts({implicit:500});
 
         //Find an element.
-        //total_reward_time += await userAction("KEYWORD", driver, reward_time, keyword);
+        total_reward_time += await userAction("KEYWORD", driver, reward_time, keyword);
         //total_reward_time += await userAction("IMAGE", driver, reward_time, tag);
-        total_reward_time += await userAction("LINK", driver, reward_time, atag);
+        //total_reward_time += await userAction("LINK", driver, reward_time, atag);
 
         //Take action on element.
         //Request element information.
