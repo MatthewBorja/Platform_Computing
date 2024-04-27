@@ -17,7 +17,7 @@ async function countElem(driver, tag){
     }
 };
 
-(async function keywordUser(){
+(async function imageUser(){
     let driver;
     let reward_time = 10000;
     let total_reward_time = 0;
