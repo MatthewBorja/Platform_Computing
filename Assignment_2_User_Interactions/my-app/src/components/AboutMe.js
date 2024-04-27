@@ -1,7 +1,8 @@
 function AboutMe(){
     return (
         <div class="MainBody">
-            <h1 id="title">Matthew Borja<a href="https://github.com/MatthewBorja/Platform_Computing"><img id='myGitHub' src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a></h1>
+            <h1 id="title">Matthew Borja<a href="https://github.com/MatthewBorja/Platform_Computing"><img id='myGitHub' src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
+										<a href="https://www.linkedin.com/in/matthew-borja-5593461ab"><img id='myLinkedIn' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"/></a></h1>
             <h1>About Me</h1>
             <div class="flex-container">
                 <p> 
