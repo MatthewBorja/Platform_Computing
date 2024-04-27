@@ -25,8 +25,8 @@ The following **bonus** features are implemented:
 
 <img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_4_Generate_Users/Images/keyword.PNG?raw=true" title='Keyword User' width='' alt='Keyword User' />
 <img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_4_Generate_Users/Images/image.PNG?raw=true" title='Image User' width='' alt='Image User' />
-<img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_4_Generate_Users/Images/linkbuttons.PNG?raw=true" title='Link User' width='' alt='Link User' />
-<img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_4_Generate_Users/Images/linkbuttons.PNG?raw=true" title='Link User' width='' alt='Link User />
+<img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_4_Generate_Users/Images/linkbuttons.PNG?raw=true" title='About Me' width='' alt='About Me' />
+<img src="https://github.com/MatthewBorja/Platform_Computing/blob/main/Assignment_4_Generate_Users/Images/link.PNG?raw=true" title='Link User' width='' alt='Link User' />
 
 
 ## Notes:
